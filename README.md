@@ -1,2 +1,1 @@
-# mi_calculadora
-practica de programacion en redes
+Jose Eduardo Patiño cuellar --
